@@ -1,0 +1,76 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environment
+*.env
+*.venv
+
+# Logs
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.cache
+
+# IDE specific
+.idea/
+.vscode/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Flask specific
+instance/
+*.db
+*.sqlite3
+
+# Node.js
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Dependency directories
+bower_components/
+
+# Build output
+build/
+dist/
+
+# Express specific
+public/uploads
+
+# IDE and editor specific
+.DS_Store
+Thumbs.db
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw*
+
+# TypeScript
+*.tsbuildinfo
+
+# npm package
+package-lock.json
+yarn.lock
